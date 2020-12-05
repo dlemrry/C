@@ -1,6 +1,7 @@
 var files_dup =
 [
     [ "client_server", "dir_d20ad0b8de644c123692ba5582cc7a7b.html", "dir_d20ad0b8de644c123692ba5582cc7a7b" ],
+    [ "compression", "dir_088cf94c502ec4084bf39b8eb256ca2e.html", "dir_088cf94c502ec4084bf39b8eb256ca2e" ],
     [ "conversions", "dir_9babc524d57e25f3d9f4179cabc3599e.html", "dir_9babc524d57e25f3d9f4179cabc3599e" ],
     [ "data_structures", "dir_2e746e9d06bf2d8ff842208bcc6ebcfc.html", "dir_2e746e9d06bf2d8ff842208bcc6ebcfc" ],
     [ "exercism", "dir_48bf5503321d91c557399989fed5dabd.html", "dir_48bf5503321d91c557399989fed5dabd" ],
