@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C", "index.html", [
     [ "The Algorithms - C", "index.html", [
-      [ "Overview", "index.html#autotoc_md60", null ],
-      [ "Features", "index.html#autotoc_md61", null ],
-      [ "Documentation", "index.html#autotoc_md62", null ],
-      [ "Contributions", "index.html#autotoc_md63", null ]
+      [ "Overview", "index.html#autotoc_md61", null ],
+      [ "Features", "index.html#autotoc_md62", null ],
+      [ "Documentation", "index.html#autotoc_md63", null ],
+      [ "Contributions", "index.html#autotoc_md64", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md1", null ],
@@ -73,21 +73,22 @@ var NAVTREE =
     [ "Simple generic Stack", "d1/d12/md_data_structures_stack__r_e_a_d_m_e.html", null ],
     [ "List of all files", "d5/d88/md__d_i_r_e_c_t_o_r_y.html", [
       [ "Client Server", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md39", null ],
-      [ "Conversions", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md40", null ],
-      [ "Data Structures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md41", null ],
-      [ "Exercism", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md42", null ],
-      [ "Games", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md43", null ],
-      [ "Geometry", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md44", null ],
-      [ "Graphics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md45", null ],
-      [ "Greedy Approach", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md46", null ],
-      [ "Hash", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47", null ],
-      [ "Leetcode", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md48", null ],
-      [ "Machine Learning", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49", null ],
-      [ "Misc", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md50", null ],
-      [ "Numerical Methods", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md51", null ],
-      [ "Project Euler", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md52", null ],
-      [ "Searching", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md53", null ],
-      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md54", null ]
+      [ "Compression", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md40", null ],
+      [ "Conversions", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md41", null ],
+      [ "Data Structures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md42", null ],
+      [ "Exercism", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md43", null ],
+      [ "Games", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md44", null ],
+      [ "Geometry", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md45", null ],
+      [ "Graphics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md46", null ],
+      [ "Greedy Approach", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47", null ],
+      [ "Hash", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md48", null ],
+      [ "Leetcode", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49", null ],
+      [ "Machine Learning", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md50", null ],
+      [ "Misc", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md51", null ],
+      [ "Numerical Methods", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md52", null ],
+      [ "Project Euler", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md53", null ],
+      [ "Searching", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md54", null ],
+      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md55", null ]
     ] ],
     [ "Sample solutions for <a href=\"http://exercism.io/\">exercism.io</a>", "d7/db5/md_exercism__r_e_a_d_m_e.html", null ],
     [ "Hash algorithms", "d4/dcb/md_hash__r_e_a_d_m_e.html", null ],
@@ -120,8 +121,8 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d4/dcc/strong__number_8c.html#a03654cadb0cfe1195810dbe5da0265b5",
-"d8/d32/problem__25_2sol1_8c.html#a0ddf1224851353fc92bfbff6f499fa97",
-"de/d0c/insertion__sort__recursive_8c.html#aa8dca7b867074164d5f45b0f3851269d"
+"d8/d32/problem__25_2sol1_8c.html#a001791a21d538b8b9176287ae60d9b61",
+"de/d0c/insertion__sort__recursive_8c.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
