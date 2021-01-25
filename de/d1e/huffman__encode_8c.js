@@ -17,5 +17,5 @@ var huffman__encode_8c =
     [ "results", "de/d1e/huffman__encode_8c.html#ab749338a72b7b55ecbd22898d897bb20", null ],
     [ "sizeofresults", "de/d1e/huffman__encode_8c.html#a05722930a88496bc69e844bcf3fcc520", null ],
     [ "stack", "de/d1e/huffman__encode_8c.html#ad557a1a3563514f34a679e3a76452af8", null ],
-    [ "top", "de/d1e/huffman__encode_8c.html#af93f4f37fc2ad9c37af4a715423b110c", null ]
+    [ "top_of_stack", "de/d1e/huffman__encode_8c.html#ab6f1171199100a5d10bceaddafb3899d", null ]
 ];
